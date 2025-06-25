@@ -1,5 +1,5 @@
 ## Hi there 👋 call me Kero
-### Junior Software Engineer / Fresh Computer Science Undergrad
+### Junior Software Engineer / Fresh Computer Science Grad
 - 🔭 I’m currently working on **Cloud Engineering (AWS) & Software Engineering**
 - 🌱 I’m currently learning **Cloud Solution Architecture & more React.js and Express.js**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kerolos-khalil/)
