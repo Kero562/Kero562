@@ -1,15 +1,20 @@
 ## Hi there 👋 call me Kero
-### Junior Software Engineer / Fresh Computer Science Grad
-- 🔭 I’m currently working on **Cloud Engineering (AWS) & Software Engineering**
-- 🌱 I’m currently learning **Cloud Solution Architecture & more React.js and Express.js**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kerolos-khalil/)
+### IT Support / Systems & Cloud Operations / Software Engineering
 
-| **Category**              | **Tools**                                                                                              |
-|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Cloud Engineering         | <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="AWS" width="70" height="50"> <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" alt="Kubernetes" width="80" height="50"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" alt="Docker" width="70" height="50"> <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f4d4e1f97d2de705d96e3_Aws_cloudformation.png" alt="CloudFormation" width="70" height="50">|
-| Programming/Backend       | <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="70" height="70"> <img src="https://www.svgrepo.com/show/376344/python.svg" alt="Python" width="70" height="70"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="Node" width="70" height="70"> <img src="https://du0ulnyus7r80.cloudfront.net/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png" alt="Springboot" width="90" height="70"> |
-| Frontend Dev              | <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JS" width="70" height="70"> <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="react" width="100" height="70"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png?f=webp&w=256" alt="HTML" width="70" height="70"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="70" height="70">|
-| Databases      | <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="react" width="100" height="70">  |
-| IDEs                      |  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="VS" width="40" height="40"> <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2026-pt4psh5t.png" alt="IntelliJ" width="40" height="40"> |
-| Testing                   | <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" width="40" height="40">  |
-| Others/Misc               | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="70" height="40">|
+- 🛠️ I’m focused on **IT support, systems operations, cloud platforms, and technical troubleshooting**
+- ☁️ I’m building deeper experience in **AWS, cloud infrastructure, automation, and reliability**
+- 💻 I also develop with **Java, Python, JavaScript, Node.js, Spring Boot, and React**
+- 🎓 **Computer Science graduate** | ✅ **AWS Certified Cloud Practitioner** | ✅ **CompTIA A+**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kerolos-khalil/)
+
+| **Category** | **Tools** |
+|---|---|
+| IT / Systems Support | <img src="https://skillicons.dev/icons?i=ubuntu" alt="Linux Support" height="42"> <img src="https://img.shields.io/badge/Windows%20Admin-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Admin" height="28"> <img src="https://img.shields.io/badge/User%20Support-0A66C2?style=for-the-badge&logo=googlemessages&logoColor=white" alt="User Support" height="28"> <img src="https://img.shields.io/badge/Troubleshooting-555555?style=for-the-badge&logo=gear&logoColor=white" alt="Troubleshooting" height="28"> |
+| Cloud / Infrastructure | <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux" alt="AWS Kubernetes Docker Linux" height="42"> <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFormation" height="28"> |
+| Networking | <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge" alt="TCP/IP" height="28"> <img src="https://img.shields.io/badge/DNS-1E88E5?style=for-the-badge" alt="DNS" height="28"> <img src="https://img.shields.io/badge/VPN-2E7D32?style=for-the-badge" alt="VPN" height="28"> <img src="https://img.shields.io/badge/Firewall-C62828?style=for-the-badge" alt="Firewall" height="28"> |
+| Programming / Automation | <img src="https://skillicons.dev/icons?i=java,python,nodejs,spring,bash" alt="Java Python Node Spring Bash" height="42"> |
+| Frontend Dev | <img src="https://skillicons.dev/icons?i=js,react,html,css" alt="JavaScript React HTML CSS" height="42"> |
+| Databases | <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL PostgreSQL" height="42"> |
+| IDEs / Tools | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github" alt="VS Code Visual Studio IntelliJ GitHub" height="42"> |
+| Testing | <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="42"> <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" height="28"> |
+| Others / Misc | <img src="https://skillicons.dev/icons?i=git,gitlab,maven" alt="Git GitLab Maven" height="42"> |
